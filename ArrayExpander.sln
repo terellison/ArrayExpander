@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayExpander", "ArrayExpander\ArrayExpander.vcxproj", "{17DA0024-EECC-4FEE-BD8F-005CA49E2E82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17DA0024-EECC-4FEE-BD8F-005CA49E2E82}.Debug|x64.ActiveCfg = Debug|x64
+		{17DA0024-EECC-4FEE-BD8F-005CA49E2E82}.Debug|x64.Build.0 = Debug|x64
+		{17DA0024-EECC-4FEE-BD8F-005CA49E2E82}.Debug|x86.ActiveCfg = Debug|Win32
+		{17DA0024-EECC-4FEE-BD8F-005CA49E2E82}.Debug|x86.Build.0 = Debug|Win32
+		{17DA0024-EECC-4FEE-BD8F-005CA49E2E82}.Release|x64.ActiveCfg = Release|x64
+		{17DA0024-EECC-4FEE-BD8F-005CA49E2E82}.Release|x64.Build.0 = Release|x64
+		{17DA0024-EECC-4FEE-BD8F-005CA49E2E82}.Release|x86.ActiveCfg = Release|Win32
+		{17DA0024-EECC-4FEE-BD8F-005CA49E2E82}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8773D59C-3D69-4153-BB31-E532AF400E1A}
+	EndGlobalSection
+EndGlobal
